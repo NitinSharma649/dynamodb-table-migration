@@ -1,0 +1,7 @@
+{
+  "TABLE": "poker_partner_qa",
+  "maxItems": 100,
+  "index": "2",
+  "nextToken": "start",
+  "maxPages": "5"
+}
