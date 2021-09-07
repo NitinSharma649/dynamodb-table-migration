@@ -1,7 +1,7 @@
 {
-  "TABLE": "poker_partner_qa",
-  "maxItems": 100,
-  "index": "2",
-  "nextToken": "start",
-  "maxPages": "5"
+  "TABLE": "poker_partner_user_qa",
+  "maxItems": 25,
+  "index": "101",
+  "nextToken": "eyJFeGNsdXNpdmVTdGFydEtleSI6IG51bGwsICJib3RvX3RydW5jYXRlX2Ftb3VudCI6IDMwMDB9",
+  "maxPages": "100"
 }

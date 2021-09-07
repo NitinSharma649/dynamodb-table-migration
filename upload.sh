@@ -12,4 +12,6 @@ do
     --request-items file://$file \
     --return-consumed-capacity INDEXES \
     --return-item-collection-metrics SIZE  >>  "upload/$TABLE.log"
+
+  rm -rf $file
 done
